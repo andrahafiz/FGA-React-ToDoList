@@ -54,6 +54,9 @@ function UpdateTask({ task, updateTask }) {
             </ModalContent>
           </Modal>
         </>
+
+
+
       )
 }
 

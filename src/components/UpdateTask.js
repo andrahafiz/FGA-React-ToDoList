@@ -50,6 +50,7 @@ function UpdateTask({ task, updateTask }) {
                 <Button colorScheme='blue'  onClick={() => updateTask(task.id, body, onClose)}>
                   Simpan  
                 </Button>
+                
               </ModalFooter>
             </ModalContent>
           </Modal>

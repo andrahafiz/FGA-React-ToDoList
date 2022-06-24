@@ -48,7 +48,7 @@ function UpdateTask({ task, updateTask }) {
               <ModalFooter>
                 <Button mr={3} onClick={onClose}>Batal</Button>
                 <Button colorScheme='blue'  onClick={() => updateTask(task.id, body, onClose)}>
-                  Save
+                  Simpan  
                 </Button>
               </ModalFooter>
             </ModalContent>

@@ -4,17 +4,17 @@ Tugas untuk FGA React
 ## 🚀 Cara Install
 + Clone este repositório 
 ```jsx
-git clone https://github.com/andrahafiz/react-todo-lis.git
+git clone https://github.com/andrahafiz/FGA-React-ToDoList.git
 ```
-+ Entre na pasta react-todo-list
++ Masuk Ke Folder FGA-React-ToDoList
 ```jsx
-cd react-todo-list
+cd FGA-React-ToDoLis
 ```
-+ Execute npm install para instalar as dependências 
++ Jalankan React 
 ```jsx
 npm install
 ```
-+ Execute npm start para rodar o projeto em http://localhost:3000/
++ Buka Browser http://localhost:3000/
 ```jsx
 npm start
 ```

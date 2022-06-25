@@ -8,7 +8,7 @@ git clone https://github.com/andrahafiz/FGA-React-ToDoList.git
 ```
 + Masuk Ke Folder FGA-React-ToDoList
 ```jsx
-cd FGA-React-ToDoLis
+cd FGA-React-ToDoList
 ```
 + Jalankan React 
 ```jsx
